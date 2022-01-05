@@ -1,4 +1,6 @@
 # pacman
-pacman game
+Pacman game recreated in javascript using jcanvas
+(needs server to run)
 
-link jcanvas: https://projects.calebevans.me/jcanvas/docs/
+jcanvas
+https://projects.calebevans.me/jcanvas/docs/
